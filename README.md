@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @CodewithBibhu
+- 👋 Hi, I’m Bibhuti Ranjan Das
 - 👀 I’m interested in web development
 - 🌱 I’m intermediate level Web developer 
 - 📫 Reach me through my Insta page: https://instagram.com/krishnatrix_web_solutions?utm_medium=copy_link
